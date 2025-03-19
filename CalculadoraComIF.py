@@ -14,5 +14,4 @@ elif op == '/':
 else:
    print('Operador Invalido ')   
 
-
-print(a+ op + b + ' =' + res ); 
+print(f"{a} {op} {b} = {res}")
